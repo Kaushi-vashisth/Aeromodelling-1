@@ -1,0 +1,30 @@
+#head{
+    font-size: large;
+  background-color: blue;
+}
+.navbar{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    background-color: aquamarine;
+  
+    
+
+}
+a:hover{
+    color: red;
+}
+li{
+    margin-left: 100px;
+    align-content: center;
+
+    margin-top: 10px;
+}
+p{
+   
+    text-align: center;
+    margin-top: 200px;
+}
+body{
+    background-color: rgb(83, 83, 223);
+}
